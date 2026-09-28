@@ -1,0 +1,170 @@
+[
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Sci-Fi",
+        "rating": 9,
+        "year": 1965,
+        "pages": 412
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "rating": 8,
+        "year": 1937,
+        "pages": 310
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "rating": 9,
+        "year": 1949,
+        "pages": 328
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "rating": 7,
+        "year": 1925,
+        "pages": 180
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "rating": 8,
+        "year": 1813,
+        "pages": 279
+    },
+    {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "genre": "Sci-Fi",
+        "rating": 9,
+        "year": 2011,
+        "pages": 369
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "rating": 9,
+        "year": 1997,
+        "pages": 223
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Classic",
+        "rating": 7,
+        "year": 1951,
+        "pages": 214
+    },
+    {
+        "title": "Project Hail Mary",
+        "author": "Andy Weir",
+        "genre": "Sci-Fi",
+        "rating": 10,
+        "year": 2021,
+        "pages": 496
+    },
+    {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "genre": "Fantasy",
+        "rating": 9,
+        "year": 2007,
+        "pages": 662
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic",
+        "rating": 10,
+        "year": 1960,
+        "pages": 281
+    },
+    {
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "genre": "Thriller",
+        "rating": 8,
+        "year": 2019,
+        "pages": 336
+    },
+    {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "genre": "Thriller",
+        "rating": 9,
+        "year": 2012,
+        "pages": 419
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": "Historical",
+        "rating": 9,
+        "year": 2005,
+        "pages": 552
+    },
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "genre": "History",
+        "rating": 8,
+        "year": 2011,
+        "pages": 443
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-Help",
+        "rating": 8,
+        "year": 2018,
+        "pages": 320
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "rating": 7,
+        "year": 1988,
+        "pages": 208
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "genre": "Dystopian",
+        "rating": 8,
+        "year": 2006,
+        "pages": 287
+    },
+    {
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "genre": "Fiction",
+        "rating": 8,
+        "year": 2020,
+        "pages": 304
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "genre": "Dystopian",
+        "rating": 9,
+        "year": 1932,
+        "pages": 268
+    },
+    {
+        "title": "song of solomon",
+        "author": "toni morrison",
+        "genre": "domestic fiction",
+        "rating": 10,
+        "year": 1977,
+        "pages": 400
+    }
+]
